@@ -35,3 +35,4 @@ hdiutil detach /Volumes/Git 1.7.3.4 x86_64 Leopard/
 5. cleanup
 
 rm -rf git-1.7.3.4-x86_64-leopard.dmg
+
